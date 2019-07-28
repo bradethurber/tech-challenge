@@ -1,3 +1,0 @@
-sudo apt-get install docker
-sudo apt-get install docker-compose
-sudo apt-get install openssh-server
