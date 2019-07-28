@@ -1,0 +1,10 @@
+version: '2'
+services:
+  minion:
+    image: jmarhee/salt-minion
+    links: 
+      - master
+    depends_on:
+      - master
+  master:
+    image: jmarhee/salt-master
