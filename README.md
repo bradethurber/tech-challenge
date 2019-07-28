@@ -1,3 +1,9 @@
+Refrences
+=========
+https://medium.com/@jmarhee/creating-a-saltstack-test-environment-with-docker-compose-7dfa79837712
+http://phase2.github.io/devtools/common-tasks/ssh-into-a-container/
+https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-nginx-web-servers
+
 Saltstack
 =========
 
