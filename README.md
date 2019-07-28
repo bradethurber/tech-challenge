@@ -30,3 +30,8 @@ salt-minion-sick_goodall:
 salt-minion-cocky_kirch:
     True
 ```
+My Results
+=========
+root@ubuntu:/opt# docker exec opt_master_1 salt "*" test.ping
+salt-minion-dd7717f46d33:
+    True
